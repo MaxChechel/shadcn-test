@@ -6,8 +6,6 @@ import {
   NavigationMenuContent,
   NavigationMenuTrigger,
   NavigationMenuLink,
-  NavigationMenuIndicator,
-  NavigationMenuViewport,
 } from "./ui/navigation-menu.jsx";
 
 const NavMenu = () => {
